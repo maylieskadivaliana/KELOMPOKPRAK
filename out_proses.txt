@@ -1,0 +1,14 @@
+5 * 1000000 = 5000000
+
+5000000 - (200000 + 250000 + 190000 + 100000 + 300000) = 3.960.000
+
+Pengeluaran tiap bulan:
+Bulan 1: 200.000
+Bulan 2: 250.000
+Bulan 3: 190.000
+Bulan 4: 100.000
+Bulan 5: 300.000
+Total pengeluaran:
+Rp1.040.000
+Uang Tabungan Saat ini:
+3.960.000
